@@ -1,11 +1,11 @@
-#Ini H1
+# Ini H1
 ## Ini H2
 ###### Ini H6
 
 Ini list
--satu
--dua
--tiga
+- satu
+- dua
+- tiga
 
 ini **bold** ini *italic*
 
